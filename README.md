@@ -1,13 +1,7 @@
-Hello, I am Shahul Hameed, a undergraduate at Nanyang Technological University Singapore studying Business and Computer Engineering (Specialising in Business Analytics) Double Degree Programme
 
-👀 I’m interested in Business Analysis to create effective solutions for Businesses and Business Development.
-
-🌱 I’m currently learning analytical tools such as Tableau and Alteryx along with other Coding Languages. I am proficient in Python, R and Power BI. I hope to add more to that list  in time to come. 
-  
-📫 I may be contacted at shahulha001@e.ntu.edu.sg
 ## Shahul Hameed
 
-I am an undergraduate at Nanyang Technological University Singapore studying **Business and Computer Engineering** (Specializing in Business Analytics) Double Degree Programme. I’m interested in **Business Analysis** to create effective solutions for Businesses and Business Development.
+I am an undergraduate at Nanyang Technological University Singapore studying **Business and Computer Engineering** (Specializing in Business Analytics) Double Degree Programme. I’m interested in **Business Analysis** to create effective solutions for Businesses and **Business Development**.
 
 ### Skills
 
