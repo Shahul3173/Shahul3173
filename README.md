@@ -19,7 +19,7 @@ I hope to add more to that list in time to come.
 ### Contact
 
 - **Email**: [shahulha001@e.ntu.edu.sg](mailto:shahulha001@e.ntu.edu.sg)
-- **LinkedIn**: Feel free to connect with me on LinkedIn
+- **LinkedIn**: www.linkedin.com/in/shahulhameedfarmaanbasha
 
 ### About Me
 
